@@ -1,0 +1,9 @@
+# Core LLM/API utilities
+groq==1.7.0
+python-dotenv==1.2.2
+langsmith==0.8.7
+
+# Notebook support
+ipykernel==6.29.5
+jupyter==1.1.1
+
